@@ -1,4 +1,5 @@
 Hi there, I'm Peter 👋
+
 I'm a software engineering leader with a passion for building intelligent products that improve lives. 
 
 I spent ten years at Google where I launched its business offering, helped crowd-source Street View with computer vision and consumer cameras, and delivered Alphabet's first AI-based medical diagnostic device.
