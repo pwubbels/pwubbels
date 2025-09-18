@@ -9,4 +9,4 @@ I'm currently part of the executive leadership team, and responsible for the eng
 What I'm Up To 🌱
 + 🧗🏃 When I'm not working, you can probably find me at the rock climbing gym or outside running.
 
-+ 🧠 On nights and weekends, I'm currently exploring the possibilities of GenAI and prototyping ideas in the rock climbing space.
++ 🧠 On nights and weekends, I'm currently exploring the possibilities of AI and prototyping an idea in the rock climbing space.
